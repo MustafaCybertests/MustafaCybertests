@@ -2,10 +2,19 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [SOC & Honeytrap in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Honeypot in Azure!](https://github.com/MustafaCybertests/HONEYPOT-LAB)
+    
+  - [Building a powerful home SIEM!](https://github.com/MustafaCybertests/SIEMLAB)
+    
+  - [Identify & Remediate Vulnerabilities](https://github.com/MustafaCybertests/Identify-Remediate-Vulnerabilities-Lab)
+    
+  - [Malware Analysis Lab](https://github.com/MustafaCybertests/Malware-Analysis-Lab)
+    
+  - [IDS/ZEEK Network Monitoring](https://github.com/MustafaCybertests/IDS-ZEEK-Network-Monitoring)
+
+  - [Setup Active Directory Home Lab](https://github.com/MustafaCybertests/ActiveDirectoryLab)
+
+  
 
 <h2> Certifications</h2>
 
