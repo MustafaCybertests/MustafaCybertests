@@ -20,6 +20,10 @@
 
 - <b>CompTIA A+</b>
 
+- <b> [Google Cyber Security Certificate](https://imgur.com/02Fnugc)<br/>
+
+
+
 - <b>CompTIA Security+ (expected June 2024)</b>
 
 - <b>Python</b>
