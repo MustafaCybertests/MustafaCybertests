@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Honeypot in Azure!](https://github.com/MustafaCybertests/HONEYPOT-LAB)
+  - [Configuring a Wireless Network!](https://github.com/MustafaCybertests/HONEYPOT-LAB)
     
   - [Building a powerful home SIEM!](https://github.com/MustafaCybertests/SIEMLAB)
     
