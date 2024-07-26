@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mustafa Alhilal! </h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Experience:</h2>
 
   - [Configuring a Wireless Network!](https://github.com/MustafaCybertests/HONEYPOT-LAB)
     
