@@ -12,7 +12,7 @@
 
   - [Setup Active Directory Home Lab](https://github.com/MustafaCybertests/ActiveDirectoryLab)
     
-  - [Identify & Remediate Vulnerabilities](https://github.com/MustafaCybertests/Identify-Remediate-Vulnerabilities-Lab)
+  - [Java Guessing Game](https://github.com/MustafaCybertests/Identify-Remediate-Vulnerabilities-Lab)
     
   - [Malware Analysis Lab](https://github.com/MustafaCybertests/Malware-Analysis-Lab)
     
